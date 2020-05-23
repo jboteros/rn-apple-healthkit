@@ -6,6 +6,9 @@
 export const Units = {
   bpm: "bpm",
   calorie: "calorie",
+  kilocalorie: "kilocalorie",
+  smallCalorie: "smallCalorie",
+  largeCalorie: "largeCalorie",
   celsius: "celsius",
   count: "count",
   day: "day",
@@ -23,5 +26,5 @@ export const Units = {
   mmolPerL: "mmolPerL",
   percent: "percent",
   pound: "pound",
-  second: "second"
-}
+  second: "second",
+};
